@@ -50,5 +50,3 @@ This project aims to analyze the sentiment of YouTube comments using Flask as th
 
 3. Enter a YouTube video URL and submit the form to analyze the comments.
 
-## Project Structure
-
