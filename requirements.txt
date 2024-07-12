@@ -1,0 +1,8 @@
+google-api-python-client
+numpy
+Flask
+pandas
+nltk
+textblob
+bs4
+lxml
